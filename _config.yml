@@ -7,16 +7,16 @@ version: 2
 
 # Personal info
 name: Yifan Chen
-title: 
+title: CU Boulder
 email: yich7110@colorado.edu
-website: https://github.com/CCatherineeeee/CCatherineeeee.github.io
+# website: https://github.com/CCatherineeeee/CCatherineeeee.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  sproogen
+github_username:  CCatherineeeee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -46,11 +46,11 @@ linkedin_username: yifanchen42
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name's Yifan Chen and I also goes with Catherine. As well as administrating systems I also have experience making software and web apps. 
+  Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark> right now. There are always new things to explore in this world.
 
 content:
   - title: Projects # Title for the section
