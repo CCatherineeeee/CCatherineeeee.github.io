@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Data Collector Web Application
-        link: github.com/sproogen
+        link: 
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,24 +68,80 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          This application is build with <mark>Python</mark> and <mark>PostSQL</mark>. Once you submit your information, you will get an email about your result. Check it out!
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This website application collect user input data and sent result to user's input email address. The home page and success result page in build with This application is build with <mark>HTML</mark>, <mark>CSS</mark>, and <mark>Flask</mark>. All the data is stored with <mark>PostSQL</mark> database. The application will conduct statistical result with PostSQL and send email by applying MIMEText.
+          This is my first time to learn and apply Flask. Flask is a <mark>Python</mark> web application framework. I was very superised and amazed to learn how efficient Flask is!
 
-  - title: Experience # Title for the section
+      - layout: top-middle
+        title: Veterinary Clinic Case Study
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          I conducted this case study while I was learning about Database System with my Professor. I started the very beginning which is to design data model with <mark>MySQL</mark> Workbench, built the database by generating Data Definition Language from data model. 
+          
+      - layout: top-middle
+        title: Tinner
+        link: github.com/ryke7507/Tinner
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          Tinner is a web application that will give you recommendation on what to have for dinner. I built the profile page using <mark>Bootstrap</mark> and <mark>HTML</mark>.
+          This is a team project. We use Agile as our workflow to keep our project on track.
+          
+      - layout: top-middle
+        title: Space Invader
+        link: github.com/yugo9081/Space_Invaders
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          Space Invader is a 2D shootingi arcade game powered by <mark>Unity</mark>. This is also a team program and my part is to design model for bullet and asteroid (obstacle) model. I also adopet the coding part with <mark>C#</mark>
+          It's my first time to work with Unity and C#. It's also the first project for HAWC - our computer science interest group. I'll introduce more about us below!
+          
+      - layout: top-middle
+        title: Pokédex
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This is a data structure application programmed with <mark>C++</mark>that run on terminal. Players can encounter all kinds of Pokémon in Kanto region (Yep, this is Pokémon Red, Blue and Yellow and their remakes).
+
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Course Assistant
+        link: https://www.colorado.edu/cs/students/undergraduate-students
+        sub_title: 
+        caption: January 2021 - Current
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            I hold office hour as a CA for helping student solve their problem as well as attend weekly meeting to discuss with teaching faculty and other CAs. This practiced my problem solving skills. It's also an interesting experience to share and learn on other student's ideas.
+            
       - layout: left
         title: Mindscribe
         link: www.mindscribe.org
@@ -94,7 +150,9 @@ content:
         quote: >
           MindScribe is on a mission to help young children tell their stories.
         description: | # this will include new lines to allow paragraphs
-            At Mindscribe, I utilize data visualization tools and perform data analysis. This is a cool team and cool project.
+            At Mindscribe, we learn and reflect on how child-robot interaction may support metacognitive skills. I utilize data visualization tools and perform data analysis while perform data analysis with statistical background. This is very a cool team and cool project.
+
+            
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -105,12 +163,13 @@ content:
         caption: Anticipated Graduation 2022
         description: |
           During my time at Boulder, I learnt a lot of skills and completed several group projects. I enjoyed my time and learnt a lot about a healthy work life balance.
+          Coursework that have completed: Data Strucutres, Algorithms, Data Science, Principle of Programming Language, Database System, AI(current), Robotics(current)
           
   
   - title: Leadership
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I'm the co-founder of our informal conputer science interest club. We built independent projects such as Space Invader. We also attended several Hackathon such as T9 and HackCU. 
+      We are all women who are passionate about learning enw things and working on common passion projects together. We built independent projects such as Space Invader (listed above!). We also attended several Hackathon such as T9 and HackCU. We share cool ideas together and explore the fun in coding. I'm very glad to be the cofounder and have our awesome members. 
      
 
 
