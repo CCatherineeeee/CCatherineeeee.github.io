@@ -61,9 +61,6 @@ content:
         link: 
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -75,10 +72,6 @@ content:
         title: Veterinary Clinic Case Study
         link: 
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -90,9 +83,9 @@ content:
         link: github.com/ryke7507/Tinner
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/ryke7507/Tinner
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -105,9 +98,9 @@ content:
         link: github.com/yugo9081/Space_Invaders
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/yugo9081/Space_Invaders
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -119,10 +112,6 @@ content:
         title: Pokédex
         link: 
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -134,7 +123,7 @@ content:
     content:
       - layout: left
         title: Course Assistant
-        link: https://www.colorado.edu/cs/students/undergraduate-students
+        link: 
         sub_title: 
         caption: January 2021 - Current
         quote: >
