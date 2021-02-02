@@ -46,7 +46,7 @@ linkedin_username: yifanchen42
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg 
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
@@ -89,6 +89,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          tinner-icon.png
         description: | # this will include new lines to allow paragraphs
           Tinner is a web application that will give you recommendation on what to have for dinner. I built the profile page using <mark>Bootstrap</mark> and <mark>HTML</mark>.
           This is a team project. We use Agile as our workflow to keep our project on track.
@@ -152,6 +153,7 @@ content:
         caption: Anticipated Graduation 2022
         description: |
           During my time at Boulder, I learnt a lot of skills and completed several group projects. I enjoyed my time and learnt a lot about a healthy work life balance.
+          I've also done a lot of volunteer works in CU Boulder. I've been one of the Notetakers for Disability Departments for two years. I've also participated the volunteer work from Zero waste.
           Coursework that have completed: Data Strucutres, Algorithms, Data Science, Principle of Programming Language, Database System, AI(current), Robotics(current)
           
   
