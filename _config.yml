@@ -46,7 +46,7 @@ linkedin_username: yifanchen42
 
 # About Section
 # about_title: About Me
-about_profile_image: image/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
