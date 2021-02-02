@@ -89,7 +89,6 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-          tinner-icon.png
         description: | # this will include new lines to allow paragraphs
           Tinner is a web application that will give you recommendation on what to have for dinner. I built the profile page using <mark>Bootstrap</mark> and <mark>HTML</mark>.
           This is a team project. We use Agile as our workflow to keep our project on track.
