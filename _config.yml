@@ -103,11 +103,15 @@ content:
         title: University of Colorado Boulder
         sub_title: B.S. in Computer Science
         caption: Anticipated Graduation 2022
-        quote: >
-          SKO Buffs!
-        descrption: |
+        description: |
           During my time at Boulder, I learnt a lot of skills and completed several group projects. I enjoyed my time and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          
+  
+  - title: Leadership
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I'm the co-founder of our informal conputer science interest club. We built independent projects such as Space Invader. We also attended several Hackathon such as T9 and HackCU. 
+     
 
 
 # Footer
