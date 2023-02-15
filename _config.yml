@@ -50,39 +50,40 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
-  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark> right now. There are always new things to explore in this world.
+  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark>.
 
 content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Software Engineer Internship
+        title: Software Engineer Internship - Twitter
         link: 
         sub_title: 
         caption: June 2022 - Auguest 2022
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Self-Driven a project for new automated file upload-and-download project in order to ensure system stability
-            Design the project and written a technical design document for the project from scratch
-            Communicate with other team for details and suggestions on detailed implementation
+            During my second internship at <mark>Twitter</mark>, I did a self-driven project, which is a automated file upload-and-download system. The purpose for the project is to 
+            I design the system and written a technical design document for the project of what to do in each step from scratch.
+            During the development, I also communicate with other team (who owns the database storage system) for details and suggestions on detailed implementation.
       - layout: left
-        title: Software Engineer Internship
+        title: Software Engineer Internship - Twitter
         link: 
         sub_title: 
         caption: June 2021 - Auguest 2021
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            Built an event data pipeline through several internal microservices by using Scala
-            Enhance Machine Learning Engineers’ working efficiency and be able to provide better customer service 
-            Conducted unit testings and end-to-end testing through staging server and passing sample event
-            Improve future work process by documenting detailed development step and testing methods, updating existed instructional documentation
+            This is my first internship at <mark>Twitter</mark>! I was in Health (Truest and Safety) Organization and my team owns intrastructures that support Machine Learning engineers and their work. During my internship, I built an event pipeline through several internal microservices by using <mark>Scala</mark>. The object for this project is to create a pipeline to enhance Machine Learning Engineers’ working efficiency and be able to provide better customer service.
+            During the development, I conducted unit testings in the program, and did end-to-end testing on the staging server by passing sample event. 
+            The event type was quit demanding at that moment. Our team got slacked by other Machine Learning engineers to request for this event type. The whole pipeline was still in use when I rejoin Twitter as intern in the next summer.
+            Beyond the program development, I found and fixed a few outdated links and things to improve in the intrumental documentation, which I was referring to for the project. I also documented detailed develop steps and testing methods for each of them, in order to improve future development process. 
+           
 
             
       - layout: left
-        title: Course Assistant
+        title: Course Assistant - Database Administration
         link: 
         sub_title: 
         caption: January 2021 - Current
