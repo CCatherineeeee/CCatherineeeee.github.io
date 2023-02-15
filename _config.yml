@@ -53,6 +53,54 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark> right now. There are always new things to explore in this world.
 
 content:
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Software Engineer Internship
+        link: 
+        sub_title: 
+        caption: June 2022 - Auguest 2022
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Self-Driven a project for new automated file upload-and-download project in order to ensure system stability
+            Design the project and written a technical design document for the project from scratch
+            Communicate with other team for details and suggestions on detailed implementation
+      - layout: left
+        title: Software Engineer Internship
+        link: 
+        sub_title: 
+        caption: June 2021 - Auguest 2021
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Built an event data pipeline through several internal microservices by using Scala
+            Enhance Machine Learning Engineers’ working efficiency and be able to provide better customer service 
+            Conducted unit testings and end-to-end testing through staging server and passing sample event
+            Improve future work process by documenting detailed development step and testing methods, updating existed instructional documentation
+
+            
+      - layout: left
+        title: Course Assistant
+        link: 
+        sub_title: 
+        caption: January 2021 - Current
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            I hold office hour as a CA for helping student solve their problem as well as attend weekly meeting to discuss with teaching faculty and other CAs. This practiced my problem solving skills. It's also an interesting experience to share and learn on other student's ideas.
+            
+      - layout: left
+        title: Mindscribe
+        link: www.mindscribe.org
+        sub_title: Data Analysis Research Assistant
+        caption: September 2020 - December 2020
+        quote: >
+          MindScribe is on a mission to help young children tell their stories.
+        description: | # this will include new lines to allow paragraphs
+            At Mindscribe, we learn and reflect on how child-robot interaction may support metacognitive skills. I utilize data visualization tools and perform data analysis while perform data analysis with statistical background. This is very a cool team and cool project.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -117,30 +165,6 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This is a data structure application programmed with <mark>C++</mark>that run on terminal. Players can encounter all kinds of Pokémon in Kanto region (Yep, this is Pokémon Red, Blue and Yellow and their remakes).
-
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Course Assistant
-        link: 
-        sub_title: 
-        caption: January 2021 - Current
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            I hold office hour as a CA for helping student solve their problem as well as attend weekly meeting to discuss with teaching faculty and other CAs. This practiced my problem solving skills. It's also an interesting experience to share and learn on other student's ideas.
-            
-      - layout: left
-        title: Mindscribe
-        link: www.mindscribe.org
-        sub_title: Data Analysis Research Assistant
-        caption: September 2020 - December 2020
-        quote: >
-          MindScribe is on a mission to help young children tell their stories.
-        description: | # this will include new lines to allow paragraphs
-            At Mindscribe, we learn and reflect on how child-robot interaction may support metacognitive skills. I utilize data visualization tools and perform data analysis while perform data analysis with statistical background. This is very a cool team and cool project.
-
             
           
   - title: Education # Title for the section
