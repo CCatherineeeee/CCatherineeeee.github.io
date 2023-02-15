@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
-  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark>.
+  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark> for backend, <mark>Flutter</mark> for frontend.
 
 content:
   - title: Work Experience # Title for the section
