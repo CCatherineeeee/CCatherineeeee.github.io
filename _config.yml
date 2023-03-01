@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
-  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Java</mark> for backend, <mark>Flutter</mark> for frontend.
+  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Go</mark>. Never be enough in learning! Just like the quote said: *"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi*
 
 content:
   - title: Work Experience # Title for the section
@@ -64,8 +64,8 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            During my second internship at <mark>Twitter</mark>, I did a self-driven project, which is a automated file upload-and-download system. The purpose for the project is to 
-            I design the system and written a technical design document for the project of what to do in each step from scratch.
+            During my second internship at <mark>Twitter</mark>, I designed and implemented automated file management project to achieve stability for our team's product.
+            I designed and written a technical design document for the project from scratch to talk about the project plan. I really learned a lot about project design in this experience. 
             During the development, I also communicate with other team (who owns the database storage system) for details and suggestions on detailed implementation.
       - layout: left
         title: Software Engineer Internship - Twitter
