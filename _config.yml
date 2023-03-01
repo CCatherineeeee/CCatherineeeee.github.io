@@ -185,10 +185,12 @@ content:
           
   
   - title: Leadership
-    subtitle: HAWC (Hacking Asian Women Crew)
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      We are all women who are passionate about learning new things and working on common passion projects together. We built independent projects such as Space Invader (listed above!). We also attended several Hackathon such as T9 and HackCU. We share cool ideas together and explore the fun in coding. I'm very glad to be the cofounder and have our awesome members. 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: HAWC (Hacking Asian Women Crew)
+        description: | # this will include new lines to allow paragraphs
+          We are all women who are passionate about learning new things and working on common passion projects together. We built independent projects such as Space Invader (listed above!). We also attended several Hackathon such as T9 and HackCU. We share cool ideas together and explore the fun in coding. I'm very glad to be the cofounder and have our awesome members! 
      
 
 
