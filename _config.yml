@@ -75,9 +75,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            This is my first internship at <mark>Twitter</mark>! I was in Health (Truest and Safety) Organization and my team owns intrastructures that support Machine Learning engineers and their work. During my internship, I built an event pipeline through several internal microservices by using <mark>Scala</mark>. The object for this project is to create a pipeline to enhance Machine Learning Engineers’ working efficiency and be able to provide better customer service.
+            This is my first internship at <mark>Twitter</mark>! I was in Health (Truest and Safety) Organization and my team owns intrastructures that support Machine Learning engineers and their work. During my internship, I built an asynchronous event pipeline through several internal microservices by using <mark>Scala</mark> and <mark>Python</mark>. The object for this project is to create a pipeline to enhance Machine Learning Engineers’ working efficiency and be able to provide better customer service.
             During the development, I conducted unit testings in the program, and did end-to-end testing on the staging server by passing sample event. 
-            The event type was quit demanding at that moment. Our team got slacked by other Machine Learning engineers to request for this event type. The whole pipeline was still in use when I rejoin Twitter as intern in the next summer.
+            The event type was quite demanding at that moment. Our team got slacked by other Machine Learning engineers to request for this event type. The whole pipeline was still in use when I rejoin Twitter as intern in the next summer.
             Beyond the program development, I found and fixed a few outdated links and things to improve in the intrumental documentation, which I was referring to for the project. I also documented detailed develop steps and testing methods for each of them, in order to improve future development process. 
            
 
