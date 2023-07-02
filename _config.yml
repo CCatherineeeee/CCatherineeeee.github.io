@@ -61,12 +61,13 @@ content:
         link: https://www.credly.com/badges/6035c499-70a7-43df-a007-f793bfcc9151/public_url
         sub_title: 
         caption: June 30, 2023
-        quote: ><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6035c499-70a7-43df-a007-f793bfcc9151" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        quote: >
           
         description: | # this will include new lines to allow paragraphs
             As I recognize the importance and popularity of cloud computing, I decide to immerse myself into cloud computing knowledge and test my understand through this AWS certificate exam.
             I'm definitely very proud in myself that I passed the test and earned this certification within only studying for <mark>3 weeks</mark>. I'm also satisfied with my outcome, with <mark>all four domains above 25%</mark> except Billing and Pricing.
-            I definitely learned a lot and gained a basic understanding about cloud computing and AWS Services. This is also brings me more confident in myself. Next step is to do more practices by building projects!
+            I definitely learned a lot and gained a basic understanding about cloud computing and AWS Services. This is also brings me more confident in myself. Next step is to do more practices by building projects! 
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6035c499-70a7-43df-a007-f793bfcc9151" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
       
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
