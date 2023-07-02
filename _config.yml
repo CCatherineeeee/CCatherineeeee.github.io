@@ -50,9 +50,24 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Yifan Chen. You can also call me Catherine. I'm currently studying in CU Boulder as a Computer Science major and always wandering over the Engineering Building with my mates. I'm interested in database, as well as software app and data science.
 
-  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Go</mark>. Never be enough in learning! Just like the quote said: *"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi*
+  <mark>Python</mark> is my favorate language. I'm also self-learning <mark>Go</mark>. I am a motivated explorer and learner dedicated to leveraging my technical skill sets to improve the quality of life for a diverse range of individuals. Alongside this, I am passionate about making a positive impact on marginalized communities. Never be enough in learning! Just like the quote said: *"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi*
 
 content:
+  - title: Cerfiticate # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AWS Certified Cloud Practitioner
+        link: https://www.credly.com/badges/6035c499-70a7-43df-a007-f793bfcc9151/public_url
+        sub_title: 
+        caption: June 30, 2023
+        quote: ><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6035c499-70a7-43df-a007-f793bfcc9151" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+          
+        description: | # this will include new lines to allow paragraphs
+            As I recognize the importance and popularity of cloud computing, I decide to immerse myself into cloud computing knowledge and test my understand through this AWS certificate exam.
+            I'm definitely very proud in myself that I passed the test and earned this certification within only studying for <mark>3 weeks</mark>. I'm also satisfied with my outcome, with <mark>all four domains above 25%</mark> except Billing and Pricing.
+            I definitely learned a lot and gained a basic understanding about cloud computing and AWS Services. This is also brings me more confident in myself. Next step is to do more practices by building projects!
+      
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
